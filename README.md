@@ -1,6 +1,9 @@
 Authors: Johannes Bunk
+
 E-Mail: bunk@uni-bremen.de
+
 Date: December 2018  
+
 Versions: UE 4.20 
 
 This plugin is an example for a simple UI that can be toggled and used to call functions and change maps in a packaged project. It is important to keep in mind, that it only works in standalone mode. 
